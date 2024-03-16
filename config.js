@@ -72,7 +72,7 @@ global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
 global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ _𝗜ᵀ𝚣 𝗠ᴇ 𝗦𝙸ˢˢ𝗢𝚁_ - 2024'
-global.bott = '𝗤𝗨𝗘𝗘𝗡-𝗛𝗘𝗟𝗔𝗡𝗞𝗔 ▎🧡🍃'
+global.bott = '𝗤𝗨𝗘𝗘𝗡-𝗛𝗘𝗟𝗔𝗡𝗞𝗔 ▎▎🧡🍃'
 global.nomorown = '94742200945'
 // owner put this creator.js
 global.str = '-------------'
